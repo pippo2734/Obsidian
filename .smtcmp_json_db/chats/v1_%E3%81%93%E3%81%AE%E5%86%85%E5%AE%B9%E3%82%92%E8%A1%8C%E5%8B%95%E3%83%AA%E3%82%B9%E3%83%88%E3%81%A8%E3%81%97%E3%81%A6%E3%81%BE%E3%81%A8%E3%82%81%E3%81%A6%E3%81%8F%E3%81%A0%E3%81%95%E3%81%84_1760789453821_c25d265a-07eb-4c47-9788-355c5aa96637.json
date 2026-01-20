@@ -1,0 +1,74 @@
+{
+  "id": "c25d265a-07eb-4c47-9788-355c5aa96637",
+  "title": "この内容を行動リストとしてまとめてください",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "この内容を行動リストとしてまとめてください",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nこの内容を行動リストとしてまとめてください\n\n"
+        }
+      ],
+      "id": "61bdd9ab-8ec2-4a21-8ee7-3a4a09da1296",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "01_Literature（情報源・文献)/20250929_タイムボクシングの罠.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "承知いたしました。いただいた内容を行動リストとしてまとめます。\n\n<smtcmp_block filename=\"01_Literature（情報源・文献)/20250929_タイムボクシングの罠.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n## 行動リスト\n1.  **完璧を目指さず、まずは「とりあえず始めてみる」**\n2.  **明日一日で良いので、大まかに時間を区切る**\n    *   例：「9-12時 作業」「12-13時 昼食」「13-15時 別の作業」のようにざっくりと設定\n3.  **タイムボクシングの「終了時間を厳守する」ことを最重要視する**\n    *   始まりの時間を逃しても、終わりの時間だけは守る\n4.  **一週間後にスケジュールを振り返り、うまくいかなかった点を見直す**\n5.  **完璧を求めず、「改善していく」感覚で取り組む**\n6.  **悩む時間があれば、まずは粗くても良いので行動計画を作成する**\n<!-- ... existing content ... -->\n</smtcmp_block>",
+      "id": "b7264ff4-cbf6-409f-b602-1c2f3f4a8426",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash"
+        },
+        "usage": {
+          "prompt_tokens": 750,
+          "completion_tokens": 255,
+          "total_tokens": 1313
+        }
+      }
+    }
+  ],
+  "createdAt": 1760789449362,
+  "updatedAt": 1760789453821,
+  "schemaVersion": 1
+}

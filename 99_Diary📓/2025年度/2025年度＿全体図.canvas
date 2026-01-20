@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"2bc13b036f4241c0","type":"text","text":"# ７月\n- RURA拡大\n- 誘導率50％達成\n- ROI\n\t- 適正人数","x":540,"y":175,"width":340,"height":265},
+		{"id":"67f8300f46772e86","type":"text","text":"# ６月\n- 拡大準備\n\t- 組織図アプデ\n- フォローアップシステム\n- アンケート導入\n- RURA入会\n\n---\nチームトップ３\n1. RURA拡大\n2. フェーズ2フォロアップ\n3. フィットRURAチームのサポート＆支援","x":160,"y":180,"width":340,"height":260},
+		{"id":"d2839e7d3e88b148","type":"text","text":"# ８月\n- PS採用\n\t- 育成システム\n\t- オンボーディング\n- 拡大基盤構築\n- 前田さん産休準備\n- ステップ2達成クラブ","x":900,"y":180,"width":400,"height":260},
+		{"id":"730442132850d1ee","type":"text","text":"# 9月\n- 前田さん産休\n- RURA評価制度構築","x":1340,"y":180,"width":380,"height":260},
+		{"id":"15b224490429b5cd","type":"file","file":"99_Diary📓/2025年度/202507/ボーナス.md","x":480,"y":-660,"width":380,"height":140},
+		{"id":"55ef87ee2ea93492","type":"text","text":"# 10月\n- 資格取得\n- 週1で本社勤務or現場視察できる状態\n- 自身の後任が育っている状態\n\t- 問題なく運用、管理ができる\n- RURA導入成功事例ができている状態\n\t- ステップ0クラブ\n\t- 定量的成功事例を作成する","x":1760,"y":180,"width":440,"height":260},
+		{"id":"51ca9767dcf728cf","type":"file","file":"99_Diary📓/2025年度/2025年度のゴールと目的地.md","x":1480,"y":860,"width":720,"height":700},
+		{"id":"6e86b7a5dc6e87b6","type":"file","file":"01_Literature（情報源・文献)/06_プレコミットメント/20250606_6月プレコミットメント候補.md","x":-420,"y":-480,"width":400,"height":400},
+		{"id":"039797e2af9d7ac1","type":"file","file":"03_Diary📓/2025年６月/６月週報.md","x":-320,"y":1520,"width":380,"height":340},
+		{"id":"95a4a9874658a8b7","type":"file","file":"99_行動目標＆計画/202506.md","x":0,"y":700,"width":400,"height":400},
+		{"id":"944b20774e86452c","type":"file","file":"02_ Zettelkasten　(永久ノート)/05_work/◆月別：個人トップ2目標草案（2025年7月〜2026年3月）.md","x":700,"y":600,"width":580,"height":560}
+	],
+	"edges":[
+		{"id":"427145b1c490be8e","fromNode":"2bc13b036f4241c0","fromSide":"top","toNode":"15b224490429b5cd","toSide":"bottom"},
+		{"id":"49c7748643f7addc","fromNode":"67f8300f46772e86","fromSide":"bottom","toNode":"95a4a9874658a8b7","toSide":"top"},
+		{"id":"0a8e9a337ca4c7b4","fromNode":"95a4a9874658a8b7","fromSide":"bottom","toNode":"039797e2af9d7ac1","toSide":"top"},
+		{"id":"2eec13de8f4fbc22","fromNode":"67f8300f46772e86","fromSide":"top","toNode":"6e86b7a5dc6e87b6","toSide":"bottom"}
+	]
+}

@@ -1,0 +1,292 @@
+{
+  "main": {
+    "id": "810d2c00f8b24d8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e59afcd8f98152a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fc5230789f43d93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_Meeting/1on1/20250922_砂田さん1on1 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250922_砂田さん1on1 1"
+            }
+          },
+          {
+            "id": "13e035426ff98080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Diary📓/2026-01-20(火).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-20(火)"
+            }
+          },
+          {
+            "id": "7aaefd27b65e1ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Literature（情報源・文献)/02_Dラボ/02_AI/AI時代に超必須！ - VS Code × Git × GitHub入門/Git×GitHubのメリット・知識・ドキュメント管理とAI連携.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git×GitHubのメリット・知識・ドキュメント管理とAI連携"
+            }
+          },
+          {
+            "id": "77c76680425200e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Archive/00_old/20250828_RURA今後のシフトについて.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250828_RURA今後のシフトについて"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f85b8b5065e3c3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "75307c3e3a2b0cb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f7a132a4481b60a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "記事",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "81d0d26994663fde",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          },
+          {
+            "id": "d7bbe88fed4ebf3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea4536da085ad72a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2312694bb9f3bad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98f2ecf2e676271c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Literature（情報源・文献)/02_Dラボ/02_AI/AI時代に超必須！ - VS Code × Git × GitHub入門/Git×GitHubのメリット・知識・ドキュメント管理とAI連携.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Git×GitHubのメリット・知識・ドキュメント管理とAI連携へのバックリンク"
+            }
+          },
+          {
+            "id": "3e08a5bb03b67521",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "99_Diary📓/2026-01-03(土).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2026-01-03(土)からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "7ef32bba0f8351b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "36ae134ab9978850",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "99_Diary📓/2026-01-03(土).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-01-03(土)のアウトライン"
+            }
+          }
+        ]
+      },
+      {
+        "id": "751955d5cfaac964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3929e7e0e25ba46a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "random-note:ランダムノートを開く": false,
+      "zk-prefixer:新規ユニークノートの作成": false,
+      "graph:グラフビューを開く": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "smart-composer:Open smart composer": false
+    }
+  },
+  "active": "7aaefd27b65e1ccd",
+  "lastOpenFiles": [
+    "01_Literature（情報源・文献)/02_Dラボ/02_AI/AI時代に超必須！ - VS Code × Git × GitHub入門/00_MOC.md",
+    "01_Literature（情報源・文献)/02_Dラボ/02_AI/AI時代に超必須！ - VS Code × Git × GitHub入門/Git×GitHubのメリット・知識・ドキュメント管理とAI連携.md",
+    "01_Literature（情報源・文献)/02_Dラボ/02_AI/AI時代に超必須！ - VS Code × Git × GitHub入門/Git×GitHub用語.md",
+    "01_Literature（情報源・文献)/02_Dラボ/02_AI/AI時代に超必須！ - VS Code × Git × GitHub入門",
+    "03_Project/02_SHIFT AI/AIライター最速デビュー講座/案件獲得編/ワーク_プロフィール作成したやつ.md",
+    "99_Diary📓/2026-01-20(火).md",
+    "10_Extra/screenshot 2.png",
+    "03_Project/03_2026年最高の一年にする/ソロキャンプ/ソロキャンデビュータスクリスト.md",
+    "03_Project/02_SHIFT AI/AIライター最速デビュー講座/案件獲得編/05_プロフィール作成のコツ.md",
+    "03_Project/02_SHIFT AI/AIライター最速デビュー講座/案件獲得編/04_プロフィールの役割.md",
+    "03_Project/02_SHIFT AI/AIライター最速デビュー講座/案件獲得編/04_1_作成手順.md",
+    "03_Project/02_SHIFT AI/AIライター最速デビュー講座/案件獲得編/00_クライアントワーク全体像.md",
+    "03_Project/02_SHIFT AI/AIライター最速デビュー講座/案件獲得編/03_応募する案件の見極め方.md",
+    "03_Project/02_SHIFT AI/AIライター最速デビュー講座/案件獲得編/02_クラウドワークスに登録.md",
+    "03_Project/02_SHIFT AI/AIライター最速デビュー講座/案件獲得編/01_クライアントワークの始め方4ステップ.md",
+    "10_Extra/Pasted image 20260120121333.png",
+    "99_Diary📓/2026-01-19(月).md",
+    "04_Archive/00_old/20250828_RURA今後のシフトについて.md",
+    "03_Project/02_SHIFT AI/AIライター最速デビュー講座/SEO記事編/7_記事の一括生成.md",
+    "03_Project/03_2026年最高の一年にする/ソロキャンプ/デイキャンプ（ソロ）に必要なものリスト.md",
+    "03_Project/03_2026年最高の一年にする/ソロキャンプ/日光の電車で行けるキャンプ場.md",
+    "03_Project/03_2026年最高の一年にする/ソロキャンプ/ソロキャンプ候補リスト.md",
+    "03_Project/03_2026年最高の一年にする/2026年全体像.canvas",
+    "03_Project/03_2026年最高の一年にする/2026年にやりたいこと洗い出し.md",
+    "03_Project/03_2026年最高の一年にする/2026年3月ゴール.md",
+    "03_Project/03_2026年最高の一年にする/プレコミットメント/2026年1月.md",
+    "03_Project/03_2026年最高の一年にする/20251001_貯蓄計画.md",
+    "99_Diary📓/20251229_やらなかった後悔リスト.md",
+    "06_Meeting/1on1/20250918_岡部さん1on1.md",
+    "03_Project/01_RURA/00_RURA_MOC/オンボーディング/20250928_ネットワークテストのリンク.md",
+    "03_Project/01_RURA/00_RURA_MOC/オンボーディング",
+    "02_ Zettelkasten　(永久ノート)/00_MOC/00_仕事の進め方",
+    "02_ Zettelkasten　(永久ノート)/99_Drafts（書きかけの知恵・種火）",
+    "02_ Zettelkasten　(永久ノート)/00_MOC",
+    "01_Literature（情報源・文献)/06_プレコミットメント/00_Wish",
+    "01_Literature（情報源・文献)/00_Web",
+    "01_Literature（情報源・文献)/06_プレコミットメント/01_サウナ",
+    "01_Literature（情報源・文献)/04_AI Tips",
+    "10_Extra/Pasted image 20260120104839.png",
+    "06_Meeting/スポットmtg",
+    "04_Archive/00_old/202510_growthX6か月目/20250703_バリュープロポジション.png",
+    "10_Extra/Pasted image 20260119085532.png",
+    "10_Extra/Pasted image 20260118111549.png",
+    "10_Extra/Pasted image 20260117104813.png",
+    "03_Project/03_2026年最高の一年にする/副業/副業計画.canvas",
+    "10_Extra/Pasted image 20260116105441.png",
+    "10_Extra/Pasted image 20260116105018.png",
+    "10_Extra/Pasted image 20260116104157.png",
+    "01_Literature（情報源・文献)/05_識学関連/RURA識学評価制度＿全体像.canvas",
+    "99_Diary📓/2025年度/2025年度＿全体図.canvas",
+    "99_Diary📓/2025年度/チャレンジシート全体像.canvas",
+    "06_識学メモ/RURA識学評価制度＿全体像.canvas"
+  ]
+}

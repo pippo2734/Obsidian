@@ -1,0 +1,32 @@
+{
+  "mobileToolbarCommands": [
+    "insert-current-date",
+    "insert-current-time",
+    "editor:insert-callout",
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:insert-link",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:toggle-strikethrough",
+    "editor:insert-footnote",
+    "editor:insert-mathblock",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:configure-toolbar"
+  ],
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00_inbox(一時保存)",
+  "attachmentFolderPath": "10_Extra"
+}

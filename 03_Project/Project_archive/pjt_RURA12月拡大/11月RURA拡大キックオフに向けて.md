@@ -1,0 +1,22 @@
+決めなきゃいけないこと
+
+- 格納先フォルダー
+	- 筐体設置箇所
+	- フロント帳票 
+		- 格納ルール
+		- 名前と拡張子
+	- RURA導入チェックリスト
+
+
+- 追加mtgの日程確定
+	- サポートmtg
+	- フォローアップ
+
+
+やること
+- [[アンケート文章作成]]
+- 設置箇所の明文化
+	- [◆RURA筐体設置場所チェックリスト（ver.1.0）.loop](https://srenaissancecojp.sharepoint.com/:fl:/g/contentstorage/CSP_77804925-614b-45a6-ac83-851de658aded/EVvfGslTFKFMoMzcaJ1SoawB1IOb9Niy8yG9YnXmWYgjKA?e=FcQQPF&nav=cz0lMkZjb250ZW50c3RvcmFnZSUyRkNTUF83NzgwNDkyNS02MTRiLTQ1YTYtYWM4My04NTFkZTY1OGFkZWQmZD1iJTIxSlVtQWQwdGhwa1dzZzRVZDVsaXQ3Und4eFRyVlBEMURsSzZxNW9GWk4zamVnN2Vpc01NSVI2MDhaVDgzYVVScCZmPTAxWDMyQzRISzMzNE5NU1VZVVVGR0tCVEc0TkNPVkZJTk0mYz0lMkYmYT1Mb29wQXBwJng9JTdCJTIydyUyMiUzQSUyMlQwUlRVSHh6Y21WdVlXbHpjMkZ1WTJWamIycHdMbk5vWVhKbGNHOXBiblF1WTI5dGZHSWhTbFZ0UVdRd2RHaHdhMWR6WnpSVlpEVnNhWFEzVW5kNGVGUnlWbEJFTVVSc1N6WnhOVzlHV2s0emFtVm5OMlZwYzAxTlNWSTJNRGhhVkRnellWVlNjSHd3TVZnek1rTTBTRTVKTWpOWldEUTBORUZOVGtKS01rZExWMWRKVUVwSFNVbE8lMjIlMkMlMjJpJTIyJTNBJTIyNzk4NTA0NDEtOWU0Zi00NTYyLTkwNWQtZjhkYjRmYmM3ZmYyJTIyJTdE)
+- キックオフで伝えることを再整理
+
+予測できる質問

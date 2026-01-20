@@ -1,0 +1,46 @@
+{
+  "id": "e5532229-c424-48b0-ad8f-6aebd135d9b7",
+  "title": "この内容を要約してください",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "この内容を要約してください",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "979270e7-7e0b-4163-8ad1-8a0ebda85d18",
+      "mentionables": []
+    }
+  ],
+  "createdAt": 1760789362612,
+  "updatedAt": 1760789427834,
+  "schemaVersion": 1
+}

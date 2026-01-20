@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"3a9027daf185ec48","type":"text","text":"専門知識","x":-233,"y":66,"width":250,"height":60},
+		{"id":"3e21c0aa0d8de07b","x":-233,"y":240,"width":250,"height":60,"type":"text","text":"企画立案"},
+		{"id":"d0ae790ffbd15426","x":-240,"y":-180,"width":250,"height":60,"type":"text","text":"チャレンジ"},
+		{"id":"9541184ce9fb4b03","x":-840,"y":-180,"width":400,"height":400,"type":"file","file":"99_Diary📓/2025年度/2025年度のゴールと目的地.md"}
+	],
+	"edges":[
+		{"id":"35d568e871c5420c","fromNode":"3a9027daf185ec48","fromSide":"bottom","toNode":"3e21c0aa0d8de07b","toSide":"top"},
+		{"id":"a12b99cff59f5fc6","fromNode":"d0ae790ffbd15426","fromSide":"bottom","toNode":"3a9027daf185ec48","toSide":"top"}
+	]
+}
