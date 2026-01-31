@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 700" width="1400" height="700">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a365d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2c5282;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="attackGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f6ad55;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ed8936;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="defenseGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#68d391;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#48bb78;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="baseGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#63b3ed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4299e1;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="3" stdDeviation="3" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1400" height="700" fill="#f7fafc"/>
+
+  <!-- Title -->
+  <rect x="0" y="0" width="1400" height="60" fill="url(#headerGrad)"/>
+  <text x="700" y="40" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="24" fill="white" text-anchor="middle" font-weight="bold">RURA運用チーム 組織体制案（2026年3月稼働モデル）</text>
+
+  <!-- 統括 Box -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="280" width="180" height="140" rx="12" fill="#2d3748"/>
+    <text x="130" y="320" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="20" fill="white" text-anchor="middle" font-weight="bold">統括</text>
+    <line x1="60" y1="335" x2="200" y2="335" stroke="white" stroke-opacity="0.3" stroke-width="1"/>
+    <text x="130" y="365" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="16" fill="white" text-anchor="middle">責任者：宮部</text>
+    <text x="130" y="395" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#a0aec0" text-anchor="middle">運用チーム全体の成果</text>
+    <text x="130" y="410" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#a0aec0" text-anchor="middle">顧客満足度の担保</text>
+  </g>
+
+  <!-- Connecting Lines -->
+  <path d="M 220 350 L 280 350 L 280 160 L 320 160" stroke="#718096" stroke-width="3" fill="none"/>
+  <path d="M 280 350 L 320 350" stroke="#718096" stroke-width="3" fill="none"/>
+  <path d="M 280 350 L 280 540 L 320 540" stroke="#718096" stroke-width="3" fill="none"/>
+
+  <!-- Unit 1: 人材・品質ユニット（攻め） -->
+  <g filter="url(#shadow)">
+    <rect x="320" y="80" width="340" height="160" rx="10" fill="white" stroke="#ed8936" stroke-width="3"/>
+    <rect x="320" y="80" width="340" height="45" rx="10" fill="url(#attackGrad)"/>
+    <rect x="320" y="115" width="340" height="10" fill="url(#attackGrad)"/>
+    <text x="490" y="110" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="15" fill="white" text-anchor="middle" font-weight="bold">人材・品質ユニット</text>
+    <rect x="540" y="90" width="110" height="22" rx="11" fill="rgba(255,255,255,0.3)"/>
+    <text x="595" y="106" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="white" text-anchor="middle">攻め：ゼロ→プラス</text>
+
+    <text x="335" y="150" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#2d3748" font-weight="bold">ミッション</text>
+    <text x="335" y="168" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="10" fill="#4a5568">遠隔接客の付加価値を高め、顧客体験の向上と成果を追求</text>
+
+    <text x="335" y="190" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#2d3748" font-weight="bold">主な機能</text>
+    <text x="335" y="208" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="10" fill="#4a5568">・顧客満足度向上施策・接客設計 ・FIT追求 ・人材開発</text>
+
+    <text x="335" y="230" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#2d3748" font-weight="bold">KPI</text>
+  </g>
+
+  <!-- KPI Tags for Unit 1 -->
+  <rect x="365" y="218" width="70" height="18" rx="9" fill="#feebc8"/>
+  <text x="400" y="231" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="9" fill="#c05621" text-anchor="middle">顧客満足度</text>
+  <rect x="440" y="218" width="85" height="18" rx="9" fill="#feebc8"/>
+  <text x="482" y="231" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="9" fill="#c05621" text-anchor="middle">8週7回来館率</text>
+  <rect x="530" y="218" width="115" height="18" rx="9" fill="#feebc8"/>
+  <text x="587" y="231" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="9" fill="#c05621" text-anchor="middle">接客クオリティスコア</text>
+
+  <!-- Unit 2: 現場・運用ユニット（守り） -->
+  <g filter="url(#shadow)">
+    <rect x="320" y="270" width="340" height="160" rx="10" fill="white" stroke="#48bb78" stroke-width="3"/>
+    <rect x="320" y="270" width="340" height="45" rx="10" fill="url(#defenseGrad)"/>
+    <rect x="320" y="305" width="340" height="10" fill="url(#defenseGrad)"/>
+    <text x="490" y="300" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="15" fill="white" text-anchor="middle" font-weight="bold">現場・運用ユニット</text>
+    <rect x="540" y="280" width="110" height="22" rx="11" fill="rgba(255,255,255,0.3)"/>
+    <text x="595" y="296" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="white" text-anchor="middle">守り：マイナス→ゼロ</text>
+
+    <text x="335" y="340" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#2d3748" font-weight="bold">ミッション</text>
+    <text x="335" y="358" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="10" fill="#4a5568">当たり前の品質を徹底し、安定稼働と現場の信頼を維持</text>
+
+    <text x="335" y="380" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#2d3748" font-weight="bold">主な機能</text>
+    <text x="335" y="398" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="10" fill="#4a5568">・適正シフト管理 ・ミス撲滅 ・導入準備・環境整備</text>
+
+    <text x="335" y="420" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#2d3748" font-weight="bold">KPI</text>
+  </g>
+
+  <!-- KPI Tags for Unit 2 -->
+  <rect x="365" y="408" width="75" height="18" rx="9" fill="#c6f6d5"/>
+  <text x="402" y="421" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="9" fill="#276749" text-anchor="middle">シフト充足率</text>
+  <rect x="445" y="408" width="105" height="18" rx="9" fill="#c6f6d5"/>
+  <text x="497" y="421" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="9" fill="#276749" text-anchor="middle">電子署名未取得件数</text>
+  <rect x="555" y="408" width="80" height="18" rx="9" fill="#c6f6d5"/>
+  <text x="595" y="421" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="9" fill="#276749" text-anchor="middle">問い合わせ件数</text>
+
+  <!-- Unit 3: 基盤・戦略ユニット（土台） -->
+  <g filter="url(#shadow)">
+    <rect x="320" y="460" width="340" height="160" rx="10" fill="white" stroke="#4299e1" stroke-width="3"/>
+    <rect x="320" y="460" width="340" height="45" rx="10" fill="url(#baseGrad)"/>
+    <rect x="320" y="495" width="340" height="10" fill="url(#baseGrad)"/>
+    <text x="490" y="490" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="15" fill="white" text-anchor="middle" font-weight="bold">基盤・戦略ユニット</text>
+    <rect x="530" y="470" width="120" height="22" rx="11" fill="rgba(255,255,255,0.3)"/>
+    <text x="590" y="486" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="white" text-anchor="middle">土台：仕組みで支える</text>
+
+    <text x="335" y="530" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#2d3748" font-weight="bold">ミッション</text>
+    <text x="335" y="548" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="10" fill="#4a5568">業務を標準化し、効率化で生み出したリソースを戦略的に再配分</text>
+
+    <text x="335" y="570" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#2d3748" font-weight="bold">主な機能</text>
+    <text x="335" y="588" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="10" fill="#4a5568">・マニュアル一元管理 ・業務フロー再設計 ・計数データ分析</text>
+
+    <text x="335" y="610" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#2d3748" font-weight="bold">KPI</text>
+  </g>
+
+  <!-- KPI Tags for Unit 3 -->
+  <rect x="365" y="598" width="95" height="18" rx="9" fill="#bee3f8"/>
+  <text x="412" y="611" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="9" fill="#2b6cb0" text-anchor="middle">マニュアル更新頻度</text>
+  <rect x="465" y="598" width="75" height="18" rx="9" fill="#bee3f8"/>
+  <text x="502" y="611" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="9" fill="#2b6cb0" text-anchor="middle">効率化削減時間</text>
+  <rect x="545" y="598" width="95" height="18" rx="9" fill="#bee3f8"/>
+  <text x="592" y="611" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="9" fill="#2b6cb0" text-anchor="middle">改善施策の検証結果</text>
+
+  <!-- Legend Box -->
+  <g filter="url(#shadow)">
+    <rect x="720" y="100" width="640" height="520" rx="12" fill="white"/>
+    <rect x="720" y="100" width="640" height="45" rx="12" fill="#2d3748"/>
+    <rect x="720" y="133" width="640" height="12" fill="#2d3748"/>
+    <text x="1040" y="130" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="16" fill="white" text-anchor="middle" font-weight="bold">各ユニット詳細情報</text>
+  </g>
+
+  <!-- Detailed Info Section -->
+  <!-- Unit 1 Detail -->
+  <rect x="740" y="165" width="12" height="12" rx="3" fill="#ed8936"/>
+  <text x="760" y="176" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="14" fill="#2d3748" font-weight="bold">人材・品質ユニット（攻め：ゼロをプラスにする活動）</text>
+  <text x="755" y="198" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#4a5568">• 顧客満足度の向上施策および接客設計</text>
+  <text x="755" y="216" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#4a5568">• FIT（8週7回来館率）など、顧客の利用継続に直結する指標の追求</text>
+  <text x="755" y="234" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#4a5568">• 人材開発、高度な接客スキル研修、および個別フィードバック</text>
+
+  <!-- Unit 2 Detail -->
+  <rect x="740" y="265" width="12" height="12" rx="3" fill="#48bb78"/>
+  <text x="760" y="276" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="14" fill="#2d3748" font-weight="bold">現場・運用ユニット（守り：マイナスをゼロにする活動）</text>
+  <text x="755" y="298" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#4a5568">• 適正なシフト管理（欠員ゼロの追求）</text>
+  <text x="755" y="316" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#4a5568">• フロント業務のミス撲滅（電子署名未取得件数ゼロの徹底）</text>
+  <text x="755" y="334" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#4a5568">• 導入準備、現場環境（機材、通信）の整備とトラブル一次対応</text>
+
+  <!-- Unit 3 Detail -->
+  <rect x="740" y="365" width="12" height="12" rx="3" fill="#4299e1"/>
+  <text x="760" y="376" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="14" fill="#2d3748" font-weight="bold">基盤・戦略ユニット（土台：仕組みで支える活動）</text>
+  <text x="755" y="398" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#4a5568">• マニュアルの一元管理および最新情報の周知</text>
+  <text x="755" y="416" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#4a5568">• Web諸届実装等に伴う業務フローの再設計と効率化の推進</text>
+  <text x="755" y="434" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#4a5568">• 計数データの集計、生産性分析、および改善レポートの作成</text>
+
+  <!-- Concept Explanation -->
+  <line x1="740" y1="465" x2="1340" y2="465" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="740" y="490" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="13" fill="#2d3748" font-weight="bold">組織設計のコンセプト</text>
+  <text x="755" y="515" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#4a5568">リーダーミーティングでの議論を反映し、役割を明確に分離：</text>
+
+  <rect x="755" y="535" width="80" height="24" rx="4" fill="#feebc8"/>
+  <text x="795" y="552" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#c05621" text-anchor="middle" font-weight="bold">攻め</text>
+  <text x="845" y="552" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#4a5568">価値を高める活動（ゼロ → プラス）</text>
+
+  <rect x="755" y="565" width="80" height="24" rx="4" fill="#c6f6d5"/>
+  <text x="795" y="582" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#276749" text-anchor="middle" font-weight="bold">守り</text>
+  <text x="845" y="582" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#4a5568">品質を安定させる活動（マイナス → ゼロ）</text>
+
+  <rect x="755" y="595" width="80" height="24" rx="4" fill="#bee3f8"/>
+  <text x="795" y="612" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#2b6cb0" text-anchor="middle" font-weight="bold">土台</text>
+  <text x="845" y="612" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="11" fill="#4a5568">仕組みで効率化を支える活動</text>
+
+  <!-- Footer -->
+  <text x="1380" y="680" font-family="Hiragino Kaku Gothic ProN, Meiryo, sans-serif" font-size="10" fill="#a0aec0" text-anchor="end">RURA運用チーム 2026年3月稼働モデル</text>
+
+</svg>
