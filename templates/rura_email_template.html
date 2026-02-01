@@ -1,11 +1,41 @@
-<p><span style="font-family:Verdana,Geneva,sans-serif;">To：2月RURA導入クラブ 支配人 各セクション責任者 各位</span></p>
+<!--
+================================================================================
+RURA 社内伝言テンプレート
+================================================================================
 
-<p><span style="font-family:Verdana,Geneva,sans-serif;">Cc：部長／GM</span></p>
+【使い方】
+1. このテンプレートをコピー
+2. {{変数名}} の部分を実際の内容に置き換え
+3. 社内システムの「ソース」画面に貼り付け
+
+【置き換え変数一覧】
+- {{宛先}}        : 例）2月RURA導入クラブ 支配人 各セクション責任者 各位
+- {{CC}}          : 例）部長／GM
+- {{導入月}}      : 例）2月
+- {{MTG日時}}     : 例）2月4日（水）11:00～13:00
+- {{参加URL}}     : TeamsのURL等
+- {{要旨項目}}    : 要旨の箇条書き（1. 2. 3. ...）
+- {{署名担当者}}  : 例）宮部
+
+【スタイルガイド】
+- フォント: Verdana,Geneva,sans-serif
+- 青色（要旨・区切り線）: #0000cd
+- 黒背景白文字（大見出し）: background-color: rgb(0, 0, 0); color: rgb(255, 255, 255);
+- 太字: <strong>テキスト</strong>
+- 改行: <br />
+- 空行: <p>&nbsp;</p>
+
+================================================================================
+-->
+
+<p><span style="font-family:Verdana,Geneva,sans-serif;">To：{{宛先}}</span></p>
+
+<p><span style="font-family:Verdana,Geneva,sans-serif;">Cc：{{CC}}</span></p>
 
 <p>&nbsp;</p>
 
 <p><span style="font-family:Verdana,Geneva,sans-serif;">こんにちは。<br />
-	SC事業イノベーションチームの宮部です。</span></p>
+SC事業イノベーションチームの{{署名担当者}}です。</span></p>
 
 <p><span style="font-family:Verdana,Geneva,sans-serif;">キックオフMTGが直前となりましたので、改めてご連絡をさせていただきます。</span></p>
 
@@ -16,16 +46,16 @@
 <p>&nbsp;</p>
 
 <p><span style="font-family:Verdana,Geneva,sans-serif;">今回、私からのご案内が分かりにくい部分もあり、ご不便やお手間をおかけしてしまったかと思います。<br />
-	そのような中でも、筐体設置日程のご入力や資料・帳票のご準備など、<br />
-	一つひとつ丁寧にご対応いただき、本当にありがとうございました。</span></p>
+そのような中でも、筐体設置日程のご入力や資料・帳票のご準備など、<br />
+一つひとつ丁寧にご対応いただき、本当にありがとうございました。</span></p>
 
 <p><span style="font-family:Verdana,Geneva,sans-serif;">皆様がお忙しい業務の合間を縫って準備を進めてくださったこと、<br />
-	大変ありがたく、深く感謝しております。</span></p>
+大変ありがたく、深く感謝しております。</span></p>
 
 <p>&nbsp;</p>
 
 <p><br />
-	<span style="font-family:Verdana,Geneva,sans-serif;">当日は皆様にお会いできることを楽しみにしております。</span></p>
+<span style="font-family:Verdana,Geneva,sans-serif;">当日は皆様にお会いできることを楽しみにしております。</span></p>
 
 <p>&nbsp;</p>
 
@@ -36,9 +66,7 @@
 <p>&nbsp;</p>
 
 <p><span style="color: #0000cd;font-family: Verdana,Geneva,sans-serif;">【要旨】</span><br />
-	<span style="color: #0000cd;font-family: Verdana,Geneva,sans-serif;">1．キックオフMTG 参加URLのご案内<br />
-	2．当日の参加者について<br />
-	3．RURAに関するお問い合わせ方法</span></p>
+<span style="color: #0000cd;font-family: Verdana,Geneva,sans-serif;">{{要旨項目}}</span></p>
 
 <p>&nbsp;</p>
 
@@ -53,12 +81,12 @@
 <p>&nbsp;</p>
 
 <p><span style="font-family: Verdana,Geneva,sans-serif;"><strong>■キックオフMTG</strong></span><br />
-	&nbsp;</p>
+&nbsp;</p>
 
-<p><span style="font-family: Verdana,Geneva,sans-serif;"><strong>　日時：2月4日（水）11:00～13:00</strong></span></p>
+<p><span style="font-family: Verdana,Geneva,sans-serif;"><strong>　日時：{{MTG日時}}</strong></span></p>
 
 <p><br />
-	<span style="font-family:Verdana,Geneva,sans-serif;">参加URL：<sub><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDRhZDZjMTEtODViMy00OWQ3LWI3MTUtMWZkOGEzZGY3NmM1%40thread.v2/0?context=%7b%22Tid%22%3a%226ac37bc3-29bf-4af4-9710-d49f131d1059%22%2c%22Oid%22%3a%22ee7e218d-3aca-4e52-bd46-093e121f0744%22%7d">https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDRhZDZjMTEtODViMy00OWQ3LWI3MTUtMWZkOGEzZGY3NmM1%40thread.v2/0?context=%7b%22Tid%22%3a%226ac37bc3-29bf-4af4-9710-d49f131d1059%22%2c%22Oid%22%3a%22ee7e218d-3aca-4e52-bd46-093e121f0744%22%7d</a></sub></span></p>
+<span style="font-family:Verdana,Geneva,sans-serif;">参加URL：<a href="{{参加URL}}">{{参加URL}}</a></span></p>
 
 <p>&nbsp;</p>
 
@@ -73,13 +101,13 @@
 <p><span style="font-family:Verdana,Geneva,sans-serif;">念のため、参加者について改めてご案内いたします。</span></p>
 
 <p><span style="font-family:Verdana,Geneva,sans-serif;">　<strong>必須参加者</strong>：支配人・フロント責任者<br />
-	　<strong>推奨参加者</strong>：セクション責任者</span></p>
+　<strong>推奨参加者</strong>：セクション責任者</span></p>
 
 <p>&nbsp;</p>
 
 <p><span style="font-family:Verdana,Geneva,sans-serif;">RURAではフィットネス退会やスクール受付も行いますので、<br />
-	各セクション責任者の方にも概要を把握いただけると、<br />
-	導入後の連携がよりスムーズになります。</span></p>
+各セクション責任者の方にも概要を把握いただけると、<br />
+導入後の連携がよりスムーズになります。</span></p>
 
 <p><span style="font-family:Verdana,Geneva,sans-serif;">ご都合がつく方は、ぜひご一緒にご参加ください。</span></p>
 
@@ -90,34 +118,34 @@
 <p><span style="font-family:Verdana,Geneva,sans-serif;"><span style="background-color: rgb(0, 0, 0); color: rgb(255, 255, 255);"><strong>【3】RURAに関するお問い合わせ方法</strong></span></span></p>
 
 <p><span style="font-family:Verdana,Geneva,sans-serif;">RURAについてご不明な点やご質問がありましたら、<br />
-	いつでもお気軽にお問い合わせください。</span></p>
+いつでもお気軽にお問い合わせください。</span></p>
 
 <p>&nbsp;</p>
 
 <p><span style="font-family:Verdana,Geneva,sans-serif;"><strong>■問い合わせ先</strong><br />
-	伝言の宛先：「RURA問い合わせ」</span></p>
+伝言の宛先：「RURA問い合わせ」</span></p>
 
 <p><span style="font-family:Verdana,Geneva,sans-serif;">小さなことでも遠慮なくお声がけください。<br />
-	皆様のクラブでRURAを円滑にご利用いただけるよう、<br />
-	しっかりサポートさせていただきます。</span></p>
+皆様のクラブでRURAを円滑にご利用いただけるよう、<br />
+しっかりサポートさせていただきます。</span></p>
 
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
-<p><span style="font-family:Verdana,Geneva,sans-serif;">それでは、2月4日にお会いできることを楽しみにしております。<br />
-	ご不明点がありましたら、お気軽にご連絡ください。</span></p>
+<p><span style="font-family:Verdana,Geneva,sans-serif;">それでは、当日お会いできることを楽しみにしております。<br />
+ご不明点がありましたら、お気軽にご連絡ください。</span></p>
 
 <p>&nbsp;</p>
 
 <p><span style="font-family:Verdana,Geneva,sans-serif;">──────────────────────────<br />
-	<strong>◆RURA全体取りまとめ</strong><br />
-	SC事業イノベーションチーム　砂田・宮部</span></p>
+<strong>◆RURA全体取りまとめ</strong><br />
+SC事業イノベーションチーム　砂田・宮部</span></p>
 
 <p>&nbsp;</p>
 
 <p><span style="font-family:Verdana,Geneva,sans-serif;"><strong>◆フロントRURA担当</strong><br />
-	SC事業イノベーションチーム　宮部　菊地　岡部　家永</span></p>
+SC事業イノベーションチーム　宮部　菊地　岡部　家永</span></p>
 
 <p>&nbsp;</p>
 
@@ -125,4 +153,4 @@
 
 <p><span style="font-family:Verdana,Geneva,sans-serif;">SC事業イノベーションチーム</span></p>
 
-<p><span style="font-family:Verdana,Geneva,sans-serif;">宮部</span></p>
+<p><span style="font-family:Verdana,Geneva,sans-serif;">{{署名担当者}}</span></p>
